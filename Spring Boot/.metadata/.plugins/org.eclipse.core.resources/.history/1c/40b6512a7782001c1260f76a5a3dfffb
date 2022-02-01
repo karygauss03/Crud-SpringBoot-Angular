@@ -1,0 +1,5 @@
+package com.karygauss.crud.repository;
+
+public interface EmployeeRepository {
+
+}

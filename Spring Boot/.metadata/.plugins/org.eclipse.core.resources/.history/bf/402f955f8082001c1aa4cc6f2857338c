@@ -1,0 +1,5 @@
+package com.karygauss.crud.exception;
+
+public class ResourceNotFoundException {
+
+}
